@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
-# encoding=utf-8
-# @Author: WenDesi
-# @Date:   09-08-16
-# @Email:  wendesi@foxmail.com
-# @Last modified by:   WenDesi
-# @Last modified time: 08-11-16
 
 ###原始形式
 
@@ -121,20 +109,6 @@ if __name__ == '__main__':
 
 
 # In[ ]:
-
-
-
-
-
-# In[1]:
-
-
-# encoding=utf-8
-# @Author: WenDesi
-# @Date:   09-08-16
-# @Email:  wendesi@foxmail.com
-# @Last modified by:   WenDesi
-# @Last modified time: 08-11-16
 
 ##对偶形式
 
